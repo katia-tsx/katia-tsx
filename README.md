@@ -11,14 +11,14 @@ Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy c
 
 <br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)] 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)  
+[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[React](https://img.shields.io/badge/-React-black?style=flat&logo=react&)
+[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+[Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
+[NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)
 
 
 Aquí en mi repositorio de GitHub, podrás encontrar proyectos relacionados con el modelado 3D, diseño de entornos virtuales y otros trabajos que he realizado. 
