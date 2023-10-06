@@ -5,7 +5,7 @@
 
 Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy comprometida con mi crecimiento profesional y me he certificado en Diseño y Programación de Base de Datos como Futura QA Engineer.
 
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 -------------------
 ###   Lenguajes de Programación:
 &emsp;
