@@ -3,7 +3,7 @@
 ### Creadora de entornos 3D Junior | Estudiante | Certificada en Diseño y Programación de Base de Datos
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hola!+Soy+Katia-tsx!;Soy+estudiante+de+programación...;Certificada+en+Diseño+y+Programación+de+base+de+datos;Creadora+de+entornos+3d+JUnior)](https://git.io/typing-svg)
 
-Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy comprometida con mi crecimiento profesional y me he certificado en Diseño y Programación de Base de Datos como Futura QA Engineer.
+Soy originaria de la República Dominicana y actualmente soy estudiante y front-end developer. Estoy comprometida con mi crecimiento profesional y me he certificado en Diseño y Programación de Base de Datos.
 
 ## 🛠️ Mis habilidades
 -------------------
