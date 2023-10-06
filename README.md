@@ -7,19 +7,34 @@
 
 Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy comprometida con mi crecimiento profesional y me he certificado en Diseño y Programación de Base de Datos como Futura QA Engineer.
 
-### 👨‍💻 Lenguajes
+## 🛠️ My Skills
+-------------------
+###   Lenguajes de Programación:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 
-<br />
+### Desarrollo Front-end:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
-[![TailwindCss](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=nextjs&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
+### Herramientas:
+&emsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![insomnia](https://img.shields.io/badge/-insomnia-000?&logo=insomnia)
 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
-[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
-[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
+### Bases De Dtoa:
+&emsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+
 
 Aquí en mi repositorio de GitHub, podrás encontrar proyectos relacionados con el modelado 3D, diseño de entornos virtuales y otros trabajos que he realizado. 
 
