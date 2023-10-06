@@ -11,9 +11,9 @@ Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy c
 
 <br />
 
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
 
 [React](https://img.shields.io/badge/-React-black?style=flat&logo=react&)
 [MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
