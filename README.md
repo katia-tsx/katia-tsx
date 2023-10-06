@@ -13,13 +13,13 @@ Soy originaria de la República Dominicana y actualmente soy estudiante. Estoy c
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
+[![TailwindCss](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=nextjs&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
 
-[React](https://img.shields.io/badge/-React-black?style=flat&logo=react&)
-[MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-[Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
-[NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs)
-
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/katia-tsx)](https://github.com/katia-tsx) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/katia-tsx)](https://github.com/katia-tsx)
 
 Aquí en mi repositorio de GitHub, podrás encontrar proyectos relacionados con el modelado 3D, diseño de entornos virtuales y otros trabajos que he realizado. 
 
