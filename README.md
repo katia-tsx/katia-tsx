@@ -17,6 +17,7 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vite](https://img.shields.io/badge/-vite-000?&logo=Vite)
 ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![NextUI](https://img.shields.io/badge/-NextUI-000?&logo=NextUI)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
