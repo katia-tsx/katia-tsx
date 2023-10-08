@@ -35,7 +35,7 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 ### Bases De Datos:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQL Server](https://img.shields.io/badge/-SQLServer-000?&logo=SQLServer)
+![SQL+Server](https://img.shields.io/badge/-SQLServer-000?&logo=SQLServer)
 
 Aquí en mi repositorio de GitHub, podrás encontrar proyectos relacionados con el modelado 3D, diseño de entornos virtuales y otros trabajos que he realizado. 
 
