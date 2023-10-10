@@ -29,7 +29,7 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 &emsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
-![Unreal Engine](https://img.shields.io/badge/-GitHub-000?&logo=Unreal-Engine)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?&logo=Unreal-Engine)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![insomnia](https://img.shields.io/badge/-insomnia-000?&logo=insomnia)
