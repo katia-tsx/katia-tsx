@@ -52,6 +52,4 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=katia-tsx&theme=jolly&locale=es&card_width=496" alt="GitHub Streak" /></a>
 </div>
-¡Siéntete libre de explorar mis proyectos!
 
-### ¡Conectemos!
