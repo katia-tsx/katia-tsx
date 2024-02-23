@@ -41,15 +41,16 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 
 <div align="center">
   <h2>Mis contribuciones</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/katia-tsx/katia-tsx/output/github-contribution-grid-snake.svg" />
+  <br><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
 </div>
 
 <hr/>
 
-<h2 align="center">Estadisticas</h2>
-<br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=katia-tsx&theme=jolly&locale=es&card_width=496" alt="GitHub Streak" /></a>
   </div>
