@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=katia-tsx.katia-tsx" />
+
 ## Hola, soy Katia
 
 ### Creadora de entornos 3D Junior | Estudiante | Certificada en Diseño y Programación de Base de Datos
