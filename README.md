@@ -40,17 +40,11 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 ![SQL+Server](https://img.shields.io/badge/-SQLServer-000?&logo=SQLServer)
 
 <div align="center">
-  <h2>Mis contribuciones</h2>
-  <br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-  
+
 </div>
 
-<hr/>
-
+<h2>Estadisticas</h2>
+<br/>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=katia-tsx&theme=jolly&locale=es&card_width=496" alt="GitHub Streak" /></a>
   </div>
