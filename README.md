@@ -53,6 +53,7 @@ Soy originaria de la República Dominicana y actualmente soy estudiante y front-
 
 <h2>Estadisticas</h2>
 <br/>
+<a href="https://stats.dooboo.io/en/stats/katia-tsx"><img src="https://stats.hyochan.dev/api/github-stats?login=katia-tsx" width="600" /></a>
 <a href="https://github.com/katia-tsx/github-readme-stats"><img alt="katia-tsx Hegde Github Stats" src="https://github-readme-stats.vercel.app/api?username=katia-tsx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/katia-tsx/github-readme-stats"><img alt="katia-tsx Hegde Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katia-tsx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
